@@ -1,0 +1,61 @@
+1.     Print the table of 5 using for loop
+2.     Print even number series by taking input from the user:
+3.     Create a list and iterate through its items using a for loop:
+4.     Calculate the sum of numbers from 1 to 10
+5. print the pattern   
+
+          *
+
+         ***
+
+       *****
+
+      *******
+
+     *********
+6. Print the first 10 natural numbers using for loop
+7. Python program to check if the given string is a palindrome
+8. Python program to check if a given number is an Armstrong number
+9. Python program to get the Fibonacci series between 0 to 50 
+
+Assignments:- 
+10. Python program to check the validity of password input by users
+
+Not completed: Lab_For_Loop
+1. program to print factorial of a number.
+
+2. Program to check whether the given number is prime or not.
+
+3. program to display the patterns.
+
+1
+
+1 2
+
+1 2 3
+
+1 2 3 4
+
+1 2 3 4 5
+
+
+
+A
+
+B C
+
+D E F
+
+G H I J K
+
+L M N O P Q
+
+
+
+        *
+
+       ***
+
+      *****
+
+     *******
