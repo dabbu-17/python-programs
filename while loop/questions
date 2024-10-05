@@ -1,0 +1,9 @@
+1. Write a python program to reverse a number using a while loop.
+
+2. Write a python program to check whether a number is palindrome or not?
+
+3. Write a python program finding the factorial of a given number using a while loop.
+
+4. Accept numbers using input() function until the user enters 0. If user input 0 then
+
+break the while loop and display the sum of all the numbers.
