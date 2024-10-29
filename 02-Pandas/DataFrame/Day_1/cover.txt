@@ -1,0 +1,21 @@
+David Singh
+Greater Noida, IN
+david.singh.3683@gmail.com
++91 9582283683
+
+17/10/2024
+
+Hiring Manager
+METADROB
+4, Narayan Singh Rd,
+Rambagh, Jaipur, Rajasthan 302003
+
+Dear Hiring Manager,
+I am writing to express my strong interest in the Front-end Developer position at METADROB. As a final-year Bachelor of Computer Applications student at the Global Institute of Information Technology with a passion for creating innovative, user-friendly digital experiences, I am excited about the opportunity to contribute my skills and enthusiasm to your team.
+My academic background, combined with hands-on project experience, has equipped me with a solid foundation in front-end development technologies. I have successfully completed projects such as a Currency Converter web application, where I developed a responsive design using HTML5, CSS3, and JavaScript, integrated real-time exchange rate APIs, and ensured cross-device compatibility. Additionally, my work on the Cyberfiction Portfolio Design project allowed me to leverage advanced technologies like GSAP and Locomotive to create cutting-edge web designs with smooth animations and intuitive user experiences.
+What sets me apart is my commitment to staying updated with the latest industry trends and technologies. I am proficient in a wide range of programming languages and tools, including React.js, Bootstrap, Tailwind, and version control systems like Git and GitHub. My experience leading the college Major Project team has also honed my project management and teamwork skills, which I believe will be valuable in a collaborative development environment.
+I am particularly drawn to METADROB because of their innovative projects, company culture, or industry reputation. I am confident that my skills in front-end development, combined with my enthusiasm for creating exceptional user experiences, align well with the needs of your organization.
+Thank you for considering my application. I am excited about the possibility of contributing to METADROB's success and would welcome the opportunity to discuss how my skills and experiences can benefit your team. I look forward to speaking with you further about this exciting opportunity.
+
+Sincerely,
+David Singh

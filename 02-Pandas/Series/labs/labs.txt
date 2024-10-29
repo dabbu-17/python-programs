@@ -1,0 +1,27 @@
+Lab1: Suppose you are a teacher, and you want to analyze the exam scores of your
+students in a particular subject. You have recorded the scores of your students for a
+recent exam, and you want to represent this data using a Pandas Series.
+Input:
+students = ['Alice', 'Bob', 'Charlie', 'David', 'Eve', 'Frank', 'Grace', 'Hannah', 'Ivy', 'Jack']
+exam_scores = [92, 88, 76, 94, 82, 90, 85, 89, 78, 91]
+
+Lab2: Suppose you want to track and analyze your household expenses for a month.
+You have recorded the expenses for various categories, such as groceries, utilities, rent,
+transportation, and entertainment. You can represent this expense data using a Pandas
+Series.
+Input:
+# Expense categories
+categories = ['Groceries', 'Utilities', 'Rent', 'Transportation', 'Entertainment']
+# Monthly expense data (example data in USD)
+expenses = [500, 200, 1200, 300, 150]
+
+Lab3: Suppose you want to track and analyze the monthly energy consumption in your
+home. You have recorded the monthly energy usage for electricity and gas over a year,
+and you want to represent this data using Pandas Series.
+Input:
+# Months in a year
+months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August',
+'September', 'October', 'November', 'December']
+# Monthly energy consumption data (example data in kilowatt-hours for electricity and therms for gas)
+electricity_usage = [350, 320, 310, 330, 340, 370, 380, 360, 350, 330, 320, 330]
+gas_usage = [20, 18, 16, 15, 12, 10, 8, 9, 12, 15, 17, 19]
